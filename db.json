@@ -1,0 +1,18 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Ma première vidéo",
+      "genre": "Comédie",
+      "public": "laabed",
+      "nbrShared": 200
+    },
+    {
+      "id": 2,
+      "title": "Ma seconde vidéo",
+      "genre": "horreur",
+      "public": "laabed lkol",
+      "nbrShared": 200
+    }
+  ]
+}
